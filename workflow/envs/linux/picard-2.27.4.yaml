@@ -1,0 +1,7 @@
+name: picard
+channels:
+  - bioconda
+  - conda-forge
+  - default
+  - defaults
+prefix: /home/talignani/miniconda3/envs/picard
