@@ -1,0 +1,12 @@
+.DS_Store
+.snakemake/
+~/
+/Users/loictalignani/
+results/
+resources/genomes/
+GenomeAnalysisTK.jar
+senegalomics.html
+senegalomics.rmd
+shave.smk
+snakefile
+
